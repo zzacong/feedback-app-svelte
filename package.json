@@ -8,6 +8,7 @@
     "start": "sirv public --no-clear"
   },
   "dependencies": {
+    "nanoid": "^3.1.30",
     "sirv-cli": "^2.0.0"
   },
   "devDependencies": {
